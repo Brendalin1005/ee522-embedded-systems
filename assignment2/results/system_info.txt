@@ -1,0 +1,125 @@
+=== Raspberry Pi 4 System Info ===
+
+$ uname -a
+Linux brenda-ras 6.12.62+rpt-rpi-v8 #1 SMP PREEMPT Debian 1:6.12.62-1+rpt1 (2025-12-18) aarch64 GNU/Linux
+
+$ cat /etc/os-release
+PRETTY_NAME="Raspbian GNU/Linux 13 (trixie)"
+NAME="Raspbian GNU/Linux"
+VERSION_ID="13"
+VERSION="13 (trixie)"
+VERSION_CODENAME=trixie
+DEBIAN_VERSION_FULL=13.2
+ID=raspbian
+ID_LIKE=debian
+HOME_URL="http://www.raspbian.org/"
+SUPPORT_URL="http://www.raspbian.org/RaspbianForums"
+BUG_REPORT_URL="http://www.raspbian.org/RaspbianBugs"
+
+$ cat /proc/cpuinfo | sed -n '1,60p'
+processor	: 0
+BogoMIPS	: 108.00
+Features	: fp asimd evtstrm crc32 cpuid
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x0
+CPU part	: 0xd08
+CPU revision	: 3
+
+processor	: 1
+BogoMIPS	: 108.00
+Features	: fp asimd evtstrm crc32 cpuid
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x0
+CPU part	: 0xd08
+CPU revision	: 3
+
+processor	: 2
+BogoMIPS	: 108.00
+Features	: fp asimd evtstrm crc32 cpuid
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x0
+CPU part	: 0xd08
+CPU revision	: 3
+
+processor	: 3
+BogoMIPS	: 108.00
+Features	: fp asimd evtstrm crc32 cpuid
+CPU implementer	: 0x41
+CPU architecture: 8
+CPU variant	: 0x0
+CPU part	: 0xd08
+CPU revision	: 3
+
+Revision	: a03115
+Serial		: 100000007883310f
+Model		: Raspberry Pi 4 Model B Rev 1.5
+
+$ lscpu | sed -n '1,80p'
+Architecture:                            aarch64
+Byte Order:                              Little Endian
+CPU(s):                                  4
+On-line CPU(s) list:                     0-3
+Vendor ID:                               ARM
+Model name:                              Cortex-A72
+Model:                                   3
+Thread(s) per core:                      1
+Core(s) per cluster:                     4
+Socket(s):                               -
+Cluster(s):                              1
+Stepping:                                r0p3
+CPU(s) scaling MHz:                      39%
+CPU max MHz:                             1800.0000
+CPU min MHz:                             600.0000
+BogoMIPS:                                108.00
+Flags:                                   fp asimd evtstrm crc32 cpuid
+L1d cache:                               128 KiB (4 instances)
+L1i cache:                               192 KiB (4 instances)
+L2 cache:                                1 MiB (1 instance)
+NUMA node(s):                            1
+NUMA node0 CPU(s):                       0-3
+Vulnerability Gather data sampling:      Not affected
+Vulnerability Indirect target selection: Not affected
+Vulnerability Itlb multihit:             Not affected
+Vulnerability L1tf:                      Not affected
+Vulnerability Mds:                       Not affected
+Vulnerability Meltdown:                  Not affected
+Vulnerability Mmio stale data:           Not affected
+Vulnerability Reg file data sampling:    Not affected
+Vulnerability Retbleed:                  Not affected
+Vulnerability Spec rstack overflow:      Not affected
+Vulnerability Spec store bypass:         Vulnerable
+Vulnerability Spectre v1:                Mitigation; __user pointer sanitization
+Vulnerability Spectre v2:                Vulnerable
+Vulnerability Srbds:                     Not affected
+Vulnerability Tsa:                       Not affected
+Vulnerability Tsx async abort:           Not affected
+Vulnerability Vmscape:                   Not affected
+
+$ free -h
+               total        used        free      shared  buff/cache   available
+Mem:           906Mi       307Mi       355Mi        24Mi       323Mi       599Mi
+Swap:          905Mi          0B       905Mi
+
+$ df -h
+Filesystem      Size  Used Avail Use% Mounted on
+udev            189M     0  189M   0% /dev
+tmpfs           182M  4.3M  178M   3% /run
+/dev/mmcblk0p2   29G  5.3G   23G  20% /
+tmpfs           454M  208K  454M   1% /dev/shm
+tmpfs           5.0M   16K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           454M  4.0K  454M   1% /tmp
+/dev/mmcblk0p1  510M   97M  414M  19% /boot/firmware
+tmpfs            91M   64K   91M   1% /run/user/104
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs            91M   60K   91M   1% /run/user/1000
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+
+$ gcc --version | head -n 2
+gcc (Raspbian 14.2.0-19+rpi1) 14.2.0
+Copyright (C) 2024 Free Software Foundation, Inc.
+
+Done.

@@ -1,0 +1,4 @@
+RAM Copy Benchmark (manual copy + full checksum)
+1024 bytes, iters=20000, time=0.067811 s -> 0.302 GB/s (sink=2611330560)
+1048576 bytes, iters=200, time=0.336778 s -> 0.623 GB/s (sink=29483712000)
+268435456 bytes, iters=5, time=2.140305 s -> 0.627 GB/s (sink=234836835840)
