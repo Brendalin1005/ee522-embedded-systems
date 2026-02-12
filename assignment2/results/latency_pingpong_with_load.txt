@@ -1,0 +1,7 @@
+Ping-pong round-trip latency (A->B->A), iters=200000
+min: 9.222 us
+p50: 13.370 us
+p95: 20.000 us
+p99: 20.407 us
+max: 317.278 us
+avg: 13.605 us

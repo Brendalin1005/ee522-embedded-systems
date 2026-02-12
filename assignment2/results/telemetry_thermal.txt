@@ -1,0 +1,452 @@
+telemetry_log seconds=90 interval=1
+
+=== Wed Feb 11 18:21:13 2026
+temp=43.3'C
+frequency(48)=600117184
+throttled=0x0
+
+=== Wed Feb 11 18:21:14 2026
+temp=42.3'C
+frequency(48)=600117184
+throttled=0x0
+
+=== Wed Feb 11 18:21:15 2026
+temp=42.8'C
+frequency(48)=600117184
+throttled=0x0
+
+=== Wed Feb 11 18:21:16 2026
+temp=43.3'C
+frequency(48)=600117184
+throttled=0x0
+
+=== Wed Feb 11 18:21:17 2026
+temp=42.8'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:21:18 2026
+temp=44.8'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:21:19 2026
+temp=45.7'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:21:20 2026
+temp=44.8'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:21:21 2026
+temp=46.2'C
+frequency(48)=1800404352
+throttled=0x0
+
+=== Wed Feb 11 18:21:22 2026
+temp=46.2'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:21:23 2026
+temp=47.2'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:21:25 2026
+temp=46.2'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:21:26 2026
+temp=47.2'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:21:27 2026
+temp=47.2'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:21:28 2026
+temp=46.2'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:21:29 2026
+temp=48.7'C
+frequency(48)=1800404352
+throttled=0x0
+
+=== Wed Feb 11 18:21:30 2026
+temp=47.7'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:21:31 2026
+temp=47.2'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:21:32 2026
+temp=48.7'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:21:33 2026
+temp=46.7'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:21:34 2026
+temp=47.7'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:21:35 2026
+temp=47.2'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:21:36 2026
+temp=47.2'C
+frequency(48)=1800404352
+throttled=0x0
+
+=== Wed Feb 11 18:21:37 2026
+temp=48.2'C
+frequency(48)=1800404352
+throttled=0x0
+
+=== Wed Feb 11 18:21:38 2026
+temp=48.2'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:21:39 2026
+temp=48.7'C
+frequency(48)=1800404352
+throttled=0x0
+
+=== Wed Feb 11 18:21:40 2026
+temp=49.6'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:21:41 2026
+temp=48.7'C
+frequency(48)=1800404352
+throttled=0x0
+
+=== Wed Feb 11 18:21:42 2026
+temp=48.7'C
+frequency(48)=1800404352
+throttled=0x0
+
+=== Wed Feb 11 18:21:43 2026
+temp=48.7'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:21:44 2026
+temp=48.7'C
+frequency(48)=1800404352
+throttled=0x0
+
+=== Wed Feb 11 18:21:45 2026
+temp=48.7'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:21:46 2026
+temp=49.6'C
+frequency(48)=1800404352
+throttled=0x0
+
+=== Wed Feb 11 18:21:47 2026
+temp=48.2'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:21:48 2026
+temp=47.7'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:21:49 2026
+temp=49.1'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:21:50 2026
+temp=50.1'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:21:51 2026
+temp=47.7'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:21:52 2026
+temp=48.2'C
+frequency(48)=1800404352
+throttled=0x0
+
+=== Wed Feb 11 18:21:53 2026
+temp=49.6'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:21:54 2026
+temp=47.7'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:21:55 2026
+temp=48.2'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:21:56 2026
+temp=48.7'C
+frequency(48)=1800404352
+throttled=0x0
+
+=== Wed Feb 11 18:21:57 2026
+temp=48.7'C
+frequency(48)=1800404352
+throttled=0x0
+
+=== Wed Feb 11 18:21:58 2026
+temp=49.1'C
+frequency(48)=1800404352
+throttled=0x0
+
+=== Wed Feb 11 18:21:59 2026
+temp=48.7'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:22:00 2026
+temp=49.6'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:22:01 2026
+temp=49.6'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:22:02 2026
+temp=49.1'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:22:03 2026
+temp=50.1'C
+frequency(48)=1800404352
+throttled=0x0
+
+=== Wed Feb 11 18:22:04 2026
+temp=48.7'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:22:05 2026
+temp=49.6'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:22:06 2026
+temp=49.6'C
+frequency(48)=1800404352
+throttled=0x0
+
+=== Wed Feb 11 18:22:07 2026
+temp=50.6'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:22:08 2026
+temp=49.6'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:22:09 2026
+temp=49.6'C
+frequency(48)=1800404352
+throttled=0x0
+
+=== Wed Feb 11 18:22:10 2026
+temp=49.1'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:22:11 2026
+temp=48.7'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:22:12 2026
+temp=49.6'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:22:13 2026
+temp=49.6'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:22:14 2026
+temp=50.1'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:22:15 2026
+temp=49.6'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:22:16 2026
+temp=49.6'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:22:17 2026
+temp=49.1'C
+frequency(48)=1800404352
+throttled=0x0
+
+=== Wed Feb 11 18:22:18 2026
+temp=49.1'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:22:19 2026
+temp=48.7'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:22:20 2026
+temp=48.2'C
+frequency(48)=1800404352
+throttled=0x0
+
+=== Wed Feb 11 18:22:21 2026
+temp=48.2'C
+frequency(48)=1800404352
+throttled=0x0
+
+=== Wed Feb 11 18:22:22 2026
+temp=47.7'C
+frequency(48)=1800457088
+throttled=0x0
+
+=== Wed Feb 11 18:22:23 2026
+temp=46.7'C
+frequency(48)=600169920
+throttled=0x0
+
+=== Wed Feb 11 18:22:24 2026
+temp=46.7'C
+frequency(48)=600169920
+throttled=0x0
+
+=== Wed Feb 11 18:22:25 2026
+temp=46.7'C
+frequency(48)=600117184
+throttled=0x0
+
+=== Wed Feb 11 18:22:26 2026
+temp=46.7'C
+frequency(48)=600117184
+throttled=0x0
+
+=== Wed Feb 11 18:22:27 2026
+temp=46.2'C
+frequency(48)=600169920
+throttled=0x0
+
+=== Wed Feb 11 18:22:28 2026
+temp=46.7'C
+frequency(48)=600117184
+throttled=0x0
+
+=== Wed Feb 11 18:22:29 2026
+temp=46.7'C
+frequency(48)=600169920
+throttled=0x0
+
+=== Wed Feb 11 18:22:30 2026
+temp=45.7'C
+frequency(48)=600169920
+throttled=0x0
+
+=== Wed Feb 11 18:22:31 2026
+temp=46.2'C
+frequency(48)=600117184
+throttled=0x0
+
+=== Wed Feb 11 18:22:32 2026
+temp=46.2'C
+frequency(48)=600117184
+throttled=0x0
+
+=== Wed Feb 11 18:22:33 2026
+temp=46.2'C
+frequency(48)=600117184
+throttled=0x0
+
+=== Wed Feb 11 18:22:34 2026
+temp=46.2'C
+frequency(48)=600169920
+throttled=0x0
+
+=== Wed Feb 11 18:22:35 2026
+temp=45.2'C
+frequency(48)=600169920
+throttled=0x0
+
+=== Wed Feb 11 18:22:36 2026
+temp=45.7'C
+frequency(48)=600169920
+throttled=0x0
+
+=== Wed Feb 11 18:22:37 2026
+temp=45.2'C
+frequency(48)=600117184
+throttled=0x0
+
+=== Wed Feb 11 18:22:38 2026
+temp=45.7'C
+frequency(48)=600117184
+throttled=0x0
+
+=== Wed Feb 11 18:22:39 2026
+temp=45.7'C
+frequency(48)=600169920
+throttled=0x0
+
+=== Wed Feb 11 18:22:40 2026
+temp=44.3'C
+frequency(48)=600117184
+throttled=0x0
+
+=== Wed Feb 11 18:22:41 2026
+temp=44.8'C
+frequency(48)=600117184
+throttled=0x0
+
+=== Wed Feb 11 18:22:42 2026
+temp=45.2'C
+frequency(48)=600169920
+throttled=0x0
+
+=== Wed Feb 11 18:22:43 2026
+temp=45.7'C
+frequency(48)=600169920
+throttled=0x0
+

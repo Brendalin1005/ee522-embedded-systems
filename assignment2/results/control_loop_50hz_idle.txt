@@ -1,0 +1,3 @@
+Control loop timer: 50 Hz, 10 s, iters=500, dummy_work=0
+Wakeup lateness (ns): min=68188 p50=75777 p95=92639 p99=94685 max=96737 avg=77808
+Wakeup lateness (us): min=68.188 p50=75.777 p95=92.639 p99=94.685 max=96.737 avg=77.808
