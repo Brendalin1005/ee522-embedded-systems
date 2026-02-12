@@ -1,0 +1,17 @@
+# binaries
+*.out
+*.o
+code/hello
+code/mem_copy_bench
+code/producer_consumer
+code/system_info
+code/telemetry_log
+code/cpu_burn
+
+# logs
+*.txt
+logs/
+results/
+
+# editor
+*~
