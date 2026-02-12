@@ -1,0 +1,5 @@
+# binaries
+cpu_burn
+telemetry_log
+*.o
+
