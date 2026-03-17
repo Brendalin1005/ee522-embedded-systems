@@ -51,7 +51,3 @@ i2cdetect -y 1
 - Always clamp servo targets to safe angle limits.
 - Start with **one servo** before moving to multiple joints.
 - Hobby servos can draw surge current; avoid stressing the Pi 5V rail in final demos.
-
-## GitHub note
-
-You can also point the report reader to your repository for the latest version of the code and raw logs.
